@@ -39,7 +39,7 @@ multi_modal = true
 
 [UI]
 # Name of the app and chatbot.
-name = "YellowBasket's Google Drive Chatbot"
+name = "YellowBasket's Chatbot"
 
 # Show the readme while the thread is empty.
 show_readme_as_default = false
