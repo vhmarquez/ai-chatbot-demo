@@ -1,0 +1,6 @@
+__pycache__/
+.files/
+.venv/
+canopy.log
+chainlit.md
+.env
